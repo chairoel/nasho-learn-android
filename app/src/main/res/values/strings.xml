@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nasho Learn</string>
+    <string name="nasho">Nasho</string>
+    <string name="learn">Learn</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="type_your_email_and_password_to_login">Ketik email dan kata sandi untuk masuk</string>
+    <string name="email">Email</string>
+    <string name="type_here">Ketik disini</string>
+    <string name="password">Password</string>
+    <string name="forgot_password_symbol">Lupa kata sandi?</string>
+    <string name="enter">Masuk</string>
+    <string name="do_not_have_account">Belum punya akun?</string>
+    <string name="register">Daftar</string>
+</resources>
