@@ -13,8 +13,8 @@
         android:theme="@style/Theme.NashoLearn"
         tools:targetApi="31">
         <activity
-            android:name=".ui.views.LoginActivity"
-            android:exported="true" >
+            android:name=".ui.views.SplashScreenActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,10 +22,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.views.SplashScreenActivity"
-            android:exported="true">
-
-        </activity>
+            android:name=".ui.views.LoginActivity"
+            android:exported="false" />
         <activity
             android:name=".ui.views.MainActivity"
             android:exported="false" />
